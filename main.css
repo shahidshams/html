@@ -2,7 +2,16 @@ body {
     background-color: rgb(230, 104, 50);
 }
 
-h1 {text-align: center; color: aqua; background: rgb(71, 61, 47);}
+h1 {text-align: center; color: aqua; background: rgb(71, 61, 47);
+    border: 1px solid green;
+
+}
+h3{text-align:center;color:black;border:3px solid rebeccapurple;}
+
+ul {color:black;background;rgb(71, 61, 47);
+border:1px solid green;}
+
+
 body {
     margin: 0;
     width: 100%;
